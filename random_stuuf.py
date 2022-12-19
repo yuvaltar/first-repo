@@ -22,3 +22,4 @@ print(is_Power_of_four(n))
 # print(str(is_Power_of_two()))
 print(bin(3))
 
+
