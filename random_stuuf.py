@@ -21,4 +21,10 @@ print(is_Power_of_four(n))
 #         return n > 0 and (n & (n - 1)) == 0
 # print(str(is_Power_of_two()))
 print(bin(3))
-765
+<<<<<<< HEAD
+
+
+
+987876
+
+>>>>>>> d70a57a (random stuuf 987)
