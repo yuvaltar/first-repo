@@ -21,6 +21,5 @@ def calculator(num1, action, num2):
 
     print('hi this is your calculator. please enter, 1 number, 1 action and a, 2 number')
 main()
-i whant to do 
-a = 1
+
 
